@@ -1,0 +1,35 @@
+-------------------------------------------
+number searched: 0
+Comparisons ran: 8
+sorry your number was not in the file.
+-------------------------------------------
+-------------------------------------------
+number searched: 200000
+Comparisons ran: 9
+sorry your number was not in the file.
+-------------------------------------------
+-------------------------------------------
+number searched: 2
+Comparisons ran: 8
+sorry your number was not in the file.
+-------------------------------------------
+-------------------------------------------
+number searched: 1500
+Comparisons ran: 9
+sorry your number was not in the file.
+-------------------------------------------
+-------------------------------------------
+number searched: 45000
+Comparisons ran: 9
+sorry your number was not in the file.
+-------------------------------------------
+-------------------------------------------
+number searched: 50005
+Comparisons ran: 9
+sorry your number was not in the file.
+-------------------------------------------
+-------------------------------------------
+number searched: 77777
+Comparisons ran: 9
+sorry your number was not in the file.
+-------------------------------------------
